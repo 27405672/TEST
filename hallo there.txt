@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-NOPE
-=======
-FOKOF JANCO
->>>>>>> c9de063581e577be7b49d895925641e30350d2f0
+Nope
