@@ -35,7 +35,32 @@ Character set encoding: ASCII
 
 *** START OF THIS PROJECT GUTENBERG EBOOK ROMEO AND JULIET ***
 
-
+	I don't care for coffee.	
+	What are you reading?	
+	There are a lot of problems we can't avoid.	
+	He has the same camera as I have.	
+	Sure. No problem.	
+	She's got a point.	
+	A doctor told me that eating eggs was bad for me.	
+	Where is the south terminal?	
+	Did he look like a doctor?	
+	He's eating an apple.	
+	OK, but please hurry. I think the restaurant is closing soon.	
+	Can you please say that again?	
+	When do you expect him back?	
+	She divorced him after many years of unhappiness.	
+	It is a nice view from here.	
+	The roads are slippery.	
+	They say that a large dam will be built.	
+	Complaining won't change anything.	
+	How are you?	
+	Tom and I have nothing in common.	
+21.	The old man narrowly escaped being run over by a car.	
+22.	Where were you going?	
+23.	It is clear what must be done.	
+24.	Mary spoke Japanese slowly.	
+25.	She advised him to go to the police station.	
+26.	Who left the door open?
 
 
 
