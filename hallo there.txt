@@ -7,8 +7,12 @@ Estian was here :)
 
 The Project Gutenberg EBook of Romeo and Juliet, by William Shakespeare
 
+<<<<<<< HEAD
 no this is the right answer
 
+=======
+I HATE THIS BOOK
+>>>>>>> 0fe0c38bbc199fc703edde3f0a38a82ee1287f6e
 *******************************************************************
 THIS EBOOK WAS ONE OF PROJECT GUTENBERG'S EARLY FILES PRODUCED AT A
 TIME WHEN PROOFING METHODS AND TOOLS WERE NOT WELL DEVELOPED. THERE
@@ -26,7 +30,7 @@ with this eBook or online at www.gutenberg.org/license
 Title: Romeo and Juliet
 
 Author: William Shakespeare
-
+I HATE THIS BOOK!!!!!!!!!!!!!!!!
 Posting Date: May 25, 2012 [EBook #1112]
 Release Date: November, 1997  [Etext #1112]
 
